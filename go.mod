@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-scaffolding-framework
+module github.com/AS-GHOST/terraform-provider-jpnic
 
 go 1.23.7
 

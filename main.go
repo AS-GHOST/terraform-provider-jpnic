@@ -9,7 +9,8 @@ import (
 	"log"
 
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
-	"github.com/hashicorp/terraform-provider-scaffolding-framework/internal/provider"
+	
+	"github.com/AS-GHOST/terraform-provider-jpnic/internal/provider"
 )
 
 var (
